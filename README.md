@@ -1,4 +1,4 @@
-# 이력서 #### [다운로드](https://raw.githubusercontent.com/sung0916/resume/main/resume_sung.pdf)
+# 이력서 
 
 ### Full-stack Dev
 #### updated at : 2026 / 01 / 04
