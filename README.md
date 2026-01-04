@@ -1,2 +1,7 @@
 # resume
-풀스택 개발자 이력서(성광식)
+
+### Full-stack Dev
+
+### updated at : 2026 / 01 / 04
+
+
